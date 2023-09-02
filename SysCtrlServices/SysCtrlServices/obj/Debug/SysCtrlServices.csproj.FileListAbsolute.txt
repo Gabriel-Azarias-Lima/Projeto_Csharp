@@ -1,0 +1,63 @@
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices.mdf
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices_log.ldf
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe.config
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Principal.resources
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Cliente.resources
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices.mdf
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices_log.ldf
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe.config
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Cliente.resources
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Principal.resources
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projeto_Software\Backup Projeto\teste\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Equipe.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Cliente.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Equipe.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Funcionario.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Principal.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Properties.Resources.resources
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices.mdf
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices_log.ldf
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe.config
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\testes\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Equipe.resources
+C:\Users\gabri\Desktop\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Funcionario.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices.mdf
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\BDSysCtrlServices_log.ldf
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe.config
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\bin\Debug\SysCtrlServices.pdb
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Cliente.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Equipe.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Funcionario.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Frm_Principal.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.exe
+C:\Users\gabri\Desktop\Projetos TI\Projeto C#\Projeto_Software\PROJETO\SysCtrlServices\SysCtrlServices\obj\Debug\SysCtrlServices.pdb
